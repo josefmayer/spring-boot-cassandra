@@ -4,7 +4,7 @@ Cassandra database example with Spring Boot <br />
 
 
 ### Technologies
-Cassandra, CQL, Spring Boot
+Cassandra, CQL, Spring Boot <br />
 
 
 ### Steps:
@@ -19,9 +19,9 @@ cqlsh < src/test/resources/setup.cql <br />
 
 
 #### Compile and Run Spring Boot Appliation
-*mvn clean compile*
-*mvn spring-boot:run*
-
+*mvn clean compile* <br />
+*mvn spring-boot:run* <br />
+ 
 
 
 ### Info:
